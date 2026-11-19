@@ -1,0 +1,19 @@
+<DocType html>
+<html>
+    <head>
+        <title>Login Form</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: lightgray;
+            }
+            .login-box {
+                width:300px;
+                margin:100px auto;
+                padding:20px;
+                background-color: white;
+                
+            }
+
+
+            
